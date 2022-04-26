@@ -1,2 +1,3 @@
-# senior-interview-template
-Created with CodeSandbox
+## Things to discuss
+
+- Socket implementation in next

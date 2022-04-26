@@ -1,0 +1,33 @@
+{
+  "name": "senior-interview",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "main": "pages/index.tsx",
+  "dependencies": {
+    "@carbon/icons-react": "latest",
+    "@types/carbon-components": "10.27.1",
+    "@types/carbon-components-react": "7.55.0",
+    "@types/node": "12.11.7",
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.3",
+    "carbon-components": "latest",
+    "carbon-components-react": "latest",
+    "carbon-icons": "latest",
+    "next": "12.1.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "styled-components": "5.3.5",
+    "typescript": "4.4.3"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.14"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
