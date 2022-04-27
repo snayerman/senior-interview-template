@@ -31,6 +31,7 @@ export const Block3 = () => {
       <InstructionItem number={2} instruction={instructions[1]} />
       <InstructionItem number={3} instruction={instructions[2]} />
       <InstructionItem number={4} instruction={instructions[3]} />
+      <InstructionItem number={5} instruction={instructions[4]} />
       <Styled.CodeSnippet hideCopyButton>{endpoint}</Styled.CodeSnippet>
     </>
   );
