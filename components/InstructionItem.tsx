@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 const Styled = {
   Instruction: styled.p`
-    margin: 0;
+    margin: 10px 5px;
     padding: 0;
     font-size: 18px;
     color: var(--text-color);
